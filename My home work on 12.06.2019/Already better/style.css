@@ -1,0 +1,50 @@
+.bgc-black {
+	background-color: #333;
+	color: #fff;
+	height: 140px;
+}
+
+.padding-top {
+	padding-top: 25px;
+	background-color: #f7f7f7;
+}
+
+.sidebar-color-headline {
+	color: #002eae;
+}
+
+.sidebar-text-style {
+	color: #ff8c20;
+	margin: 20px 0px 20px 0px;
+	font-weight: bold;
+}
+
+.shadow {
+	box-shadow: 5px 5px 10px #000;
+	margin-bottom: 20px;
+}
+
+.margin-for-headline {
+	margin-top: 200px;
+}
+
+.footer {
+	margin-top: 20px;
+	background-color: #333;
+	color: #fff;
+}
+
+.top-inline-list li{
+	display: inline-block;
+	padding: 20px;
+	list-style-type: none;
+}
+
+.ImagesForAside1 {
+	width: 25%;
+}
+
+.ImagesForAside2 {
+	width: 60%;
+}
+
